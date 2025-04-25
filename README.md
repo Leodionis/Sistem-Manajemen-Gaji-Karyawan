@@ -1,1 +1,1 @@
-<a href="SISTEM MANAJEMEN GAJI KARYAWAN.mp4">
+<img src="img" alt="Alt Text" width="3000"/>
