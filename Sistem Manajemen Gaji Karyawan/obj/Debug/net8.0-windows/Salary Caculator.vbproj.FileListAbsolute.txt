@@ -1,0 +1,17 @@
+C:\Users\Leodionis\source\repos\Salary Caculator\Salary Caculator\bin\Debug\net8.0-windows\Salary Caculator.exe
+C:\Users\Leodionis\source\repos\Salary Caculator\Salary Caculator\bin\Debug\net8.0-windows\Salary Caculator.deps.json
+C:\Users\Leodionis\source\repos\Salary Caculator\Salary Caculator\bin\Debug\net8.0-windows\Salary Caculator.runtimeconfig.json
+C:\Users\Leodionis\source\repos\Salary Caculator\Salary Caculator\bin\Debug\net8.0-windows\Salary Caculator.dll
+C:\Users\Leodionis\source\repos\Salary Caculator\Salary Caculator\bin\Debug\net8.0-windows\Salary Caculator.pdb
+C:\Users\Leodionis\source\repos\Salary Caculator\Salary Caculator\obj\Debug\net8.0-windows\Salary_Caculator.Form1.resources
+C:\Users\Leodionis\source\repos\Salary Caculator\Salary Caculator\obj\Debug\net8.0-windows\Salary Caculator.vbproj.GenerateResource.cache
+C:\Users\Leodionis\source\repos\Salary Caculator\Salary Caculator\obj\Debug\net8.0-windows\Salary Caculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leodionis\source\repos\Salary Caculator\Salary Caculator\obj\Debug\net8.0-windows\Salary Caculator.AssemblyInfoInputs.cache
+C:\Users\Leodionis\source\repos\Salary Caculator\Salary Caculator\obj\Debug\net8.0-windows\Salary Caculator.AssemblyInfo.vb
+C:\Users\Leodionis\source\repos\Salary Caculator\Salary Caculator\obj\Debug\net8.0-windows\Salary Caculator.vbproj.CoreCompileInputs.cache
+C:\Users\Leodionis\source\repos\Salary Caculator\Salary Caculator\obj\Debug\net8.0-windows\Salary Caculator.dll
+C:\Users\Leodionis\source\repos\Salary Caculator\Salary Caculator\obj\Debug\net8.0-windows\refint\Salary Caculator.dll
+C:\Users\Leodionis\source\repos\Salary Caculator\Salary Caculator\obj\Debug\net8.0-windows\Salary Caculator.pdb
+C:\Users\Leodionis\source\repos\Salary Caculator\Salary Caculator\obj\Debug\net8.0-windows\Salary Caculator.genruntimeconfig.cache
+C:\Users\Leodionis\source\repos\Salary Caculator\Salary Caculator\obj\Debug\net8.0-windows\ref\Salary Caculator.dll
+C:\Users\Leodionis\source\repos\Salary Caculator\Salary Caculator\obj\Debug\net8.0-windows\Salary_Caculator.Resources.resources

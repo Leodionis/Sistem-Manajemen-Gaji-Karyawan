@@ -1,0 +1,17 @@
+C:\Users\Leodionis\Downloads\Sistem Manajemen Gaji Karyawan\Sistem Manajemen Gaji Karyawan\bin\Debug\net8.0-windows\Sistem Manajemen Gaji Karyawan.exe
+C:\Users\Leodionis\Downloads\Sistem Manajemen Gaji Karyawan\Sistem Manajemen Gaji Karyawan\bin\Debug\net8.0-windows\Sistem Manajemen Gaji Karyawan.deps.json
+C:\Users\Leodionis\Downloads\Sistem Manajemen Gaji Karyawan\Sistem Manajemen Gaji Karyawan\bin\Debug\net8.0-windows\Sistem Manajemen Gaji Karyawan.runtimeconfig.json
+C:\Users\Leodionis\Downloads\Sistem Manajemen Gaji Karyawan\Sistem Manajemen Gaji Karyawan\bin\Debug\net8.0-windows\Sistem Manajemen Gaji Karyawan.dll
+C:\Users\Leodionis\Downloads\Sistem Manajemen Gaji Karyawan\Sistem Manajemen Gaji Karyawan\bin\Debug\net8.0-windows\Sistem Manajemen Gaji Karyawan.pdb
+C:\Users\Leodionis\Downloads\Sistem Manajemen Gaji Karyawan\Sistem Manajemen Gaji Karyawan\obj\Debug\net8.0-windows\Salary_Caculator.Form1.resources
+C:\Users\Leodionis\Downloads\Sistem Manajemen Gaji Karyawan\Sistem Manajemen Gaji Karyawan\obj\Debug\net8.0-windows\Salary_Caculator.Resources.resources
+C:\Users\Leodionis\Downloads\Sistem Manajemen Gaji Karyawan\Sistem Manajemen Gaji Karyawan\obj\Debug\net8.0-windows\Sistem Manajemen Gaji Karyawan.vbproj.GenerateResource.cache
+C:\Users\Leodionis\Downloads\Sistem Manajemen Gaji Karyawan\Sistem Manajemen Gaji Karyawan\obj\Debug\net8.0-windows\Sistem Manajemen Gaji Karyawan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leodionis\Downloads\Sistem Manajemen Gaji Karyawan\Sistem Manajemen Gaji Karyawan\obj\Debug\net8.0-windows\Sistem Manajemen Gaji Karyawan.AssemblyInfoInputs.cache
+C:\Users\Leodionis\Downloads\Sistem Manajemen Gaji Karyawan\Sistem Manajemen Gaji Karyawan\obj\Debug\net8.0-windows\Sistem Manajemen Gaji Karyawan.AssemblyInfo.vb
+C:\Users\Leodionis\Downloads\Sistem Manajemen Gaji Karyawan\Sistem Manajemen Gaji Karyawan\obj\Debug\net8.0-windows\Sistem Manajemen Gaji Karyawan.vbproj.CoreCompileInputs.cache
+C:\Users\Leodionis\Downloads\Sistem Manajemen Gaji Karyawan\Sistem Manajemen Gaji Karyawan\obj\Debug\net8.0-windows\Sistem Manajemen Gaji Karyawan.dll
+C:\Users\Leodionis\Downloads\Sistem Manajemen Gaji Karyawan\Sistem Manajemen Gaji Karyawan\obj\Debug\net8.0-windows\refint\Sistem Manajemen Gaji Karyawan.dll
+C:\Users\Leodionis\Downloads\Sistem Manajemen Gaji Karyawan\Sistem Manajemen Gaji Karyawan\obj\Debug\net8.0-windows\Sistem Manajemen Gaji Karyawan.pdb
+C:\Users\Leodionis\Downloads\Sistem Manajemen Gaji Karyawan\Sistem Manajemen Gaji Karyawan\obj\Debug\net8.0-windows\Sistem Manajemen Gaji Karyawan.genruntimeconfig.cache
+C:\Users\Leodionis\Downloads\Sistem Manajemen Gaji Karyawan\Sistem Manajemen Gaji Karyawan\obj\Debug\net8.0-windows\ref\Sistem Manajemen Gaji Karyawan.dll
